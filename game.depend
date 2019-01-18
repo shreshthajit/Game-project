@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1547392900 source:c:\users\asus\desktop\new folder (2)\faysal\main.cpp
+	<SFML/Graphics.hpp>
+	<bits/stdc++.h>
+	<string>
+	<time.h>
+
